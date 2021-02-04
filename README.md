@@ -1,0 +1,1 @@
+This is a place for me to put Python scripts that don't really belong to a full project on their own.
